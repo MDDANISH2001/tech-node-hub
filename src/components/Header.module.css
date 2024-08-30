@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Bruno+Ace+SC&family=Heebo&family=Kalam&family=Lobster&display=swap');
+
+*{
+    margin: 0;
+    text-decoration: none;
+    font-family: 'Heebo';
+}
+.menu_box{
+    height: 60px;
+    background-color: rgb(140, 241, 165);
+}
+.orgname{
+    font-family: 'Bruno Ace SC';
+    font-size: 32px;
+    font-weight: bold;
+    padding-top: 8px;
+}
+.org_logo{
+    padding: 5px 10px 0px 0px;
+    border-radius: 45px;
+    width: 45px;
+    height: 45px;
+}
+.navlinks{
+    display: flex;
+    color:black
+}
